@@ -1,0 +1,26 @@
+
+/* 프로젝트 리스트 스타일 */
+.projects {
+    max-width: 940px;
+    margin: 80px auto;
+    text-align: center;
+}
+
+
+.project-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.project-item {
+    margin: 30px;
+    text-align: center;
+}
+
+.project-img {
+    width: 100%;
+    height: auto;
+    border-radius: 10px;
+}
+
