@@ -3,8 +3,7 @@
     display: flex;
     justify-content: center;
     border-bottom: 1px solid black;
-
-    z-index: 999;
+    margin-bottom: 50px;
 }
 
 .status-bar {
@@ -46,3 +45,4 @@
 .status-bar_a:hover {
     font-weight: bold;
   }
+
